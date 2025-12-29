@@ -1,0 +1,10 @@
+    ╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+    ║  [!] Welcome !                                                                  _____            ║
+    ║  [7.40/am] Started monitoring user '@xxxxxxxx'                                 /     \______     ║
+    ║  [7.42/am] Monitoring ......                                                  |  .-""-.     |    ║
+    ║  [8.11/am] User '@xxxxxxxx' changed their profile picture [check logs]        | /      \    |    ║
+    ║  [10.10/am] No changes                                                        | \      /    |    ║
+    ║  [12.15/am] User Upload a story (https://.....) [check logs]                  |  '-..;\     |    ║
+    ║  [12.20/am] CTRL+C signal detected .                                          |_______\\____|    ║
+    ║  [12.7/am] Goodbye ...                                                                 \|        ║ 
+    ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
